@@ -1,0 +1,6 @@
+
+git clone https://github.com/DidarDR/Didar_first_tool.git
+
+cd Didar_first_tool
+
+pythone
